@@ -86,6 +86,8 @@ Contributions to this repository are highly encouraged. Whether you want to repo
 
 ## License
 
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License
+
+This repository is licensed under the [MIT License](LICENSE.md). 
 
 Embark on your journey of optimization exploration and bioinformatics alignment with the Affine Gap Penalty Model! Happy coding!
