@@ -80,13 +80,6 @@ To incorporate these algorithms into your projects:
    git clone https://github.com/your-username/design-analysis-algorithms.git
    ```
 
-2. **Navigate to the specific algorithm directory:**
-   ```bash
-   cd design-analysis-algorithms/affine-gap-penalty-model
-   ```
-
-3. **Follow the instructions in the algorithm's README file for usage guidelines and example code.**
-
 ## Contributing
 
 Contributions to this repository are highly encouraged. Whether you want to report bugs, request features, or contribute code, please refer to our [contribution guidelines](CONTRIBUTING.md).
