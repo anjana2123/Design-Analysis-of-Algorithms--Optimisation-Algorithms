@@ -1,4 +1,4 @@
-#Contributing Guidelines
+# Contributing Guidelines
 
 Thank you for considering contributing to our project! Whether you're reporting bugs, suggesting enhancements, or contributing code, your collaboration is highly valued. To maintain a positive and inclusive community, please adhere to the following guidelines:
 
